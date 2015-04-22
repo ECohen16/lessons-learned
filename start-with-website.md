@@ -19,3 +19,10 @@ Titanium Appcelerator.
 
 Caveat: some businesses will require specific native app functionality; however, the list of native-only 
 features is expected to decrease over time.
+
+Here's a website:  https://canvas.gsb.columbia.edu
+
+Hoping for a:
+
+http://www.google.com/imgres?imgurl=https://thevoiceofonedotorg.files.wordpress.com/2015/02/lck75xpca.jpeg&imgrefurl=http://thevoiceofone.org/2015/02/04/thumbs-up/&h=2674&w=2891&tbnid=jZRnTK4mS-EOHM:&zoom=1&docid=3KlekftX86WLyM&ei=vQI4VbzpB82wyASaz4GIBQ&tbm=isch&ved=0CDMQMygBMAE
+
