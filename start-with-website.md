@@ -15,10 +15,14 @@ for different devices.  “Mobile-first” websites can be designed around mobil
 functionality for larger devices through frameworks like Twitter Bootstrap.
 
 When necessary, website code can be leveraged to create a mobile app through technologies such as PhoneGap or
-Titanium Appcelerator.  
+Titanium Appcelerator.  While the former sacrifices on native app appearance and functionality to enable quick
+multi-platform prototyping, the latter more closely resembles a native app (albeit, at a higher price point).
 
-Caveat: some businesses will require specific native app functionality; however, the list of native-only 
-features is expected to decrease over time.
+Caveats: 
+* Some businesses will require specific native app functionality; however, the list of native-only 
+features is expected to decrease over time
+* Applications that require intensive graphical computations (e.g., Uber) may require native app development
+* For large companies with abundant financial resources, proven business models, and limited time pressure, it is generally preferable to start with the development of a native app rather than a website
 
 Here's a website:  https://canvas.gsb.columbia.edu
 
