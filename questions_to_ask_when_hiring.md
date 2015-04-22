@@ -6,3 +6,5 @@ Next, based on what we have learned in this class, it is important to ask questi
 
 Lastly, many developers have distinct personalities and really enjoy a certain quality of life. Part of having a developer dedicated to your software development is knowing that they are actively engaged and excited about what you are trying to do.  A classic example described in class was a software developer that was also in a band was very dedicated to helping build a new software that was music related. While that example may be on the extreme end of a perfect fit, it is important to find someone who is genuinely interested in what you are doing and advancing your business mission.
 
+![Penguin team](http://www.cromo.com.uy/wp-content/uploads/2012/11/pinguino.jpg)
+[More Penguins](http://www.taringa.net/post/imagenes/18492894/Ping-inos.html)
