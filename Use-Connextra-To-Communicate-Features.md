@@ -19,4 +19,4 @@ ___(2) Sample Connexta:___
 
 ___(3) Connextra Link:___
 
-(http://guide.agilealliance.org/guide/rolefeature.html)
+http://guide.agilealliance.org/guide/rolefeature.html
