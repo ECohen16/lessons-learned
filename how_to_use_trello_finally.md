@@ -10,3 +10,5 @@ One mistake though is that I really fell in love with trello, I introduced it to
 I am even sharing some 'boards' with my wife...hmmm
 
 But, you can always create more 'boards' to keep your privacy. Try it. It's a great product.
+
+There are more tools for group work and [www.asana.com], [www.slack.com] are good ones. 
